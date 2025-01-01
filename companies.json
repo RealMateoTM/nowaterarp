@@ -1,0 +1,5 @@
+[
+    { "name": "Transportex", "income": 500, "equipment": ["Ciężarówka"] },
+    { "name": "BudMat", "income": 800, "equipment": ["Koparka", "Betoniarka"] },
+    { "name": "AgroPlus", "income": 300, "equipment": ["Traktor"] }
+  ]
